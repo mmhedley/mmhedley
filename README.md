@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Full-Stack software engineer with 15+ years of experience in the pharmaceutical sector. <br>I lead a team of engineers to create innovative and flexible solutions to support clinical Trials.<br>I always love learning new things, especially tools and frameworks and enjoy tinkering with anything I can get my hands on.<br>I'm currently learning: Vue, Python, React, Gen AI and Electron
-(He/Him)
+I'm a Full-Stack software engineer with 15+ years of experience in the pharmaceutical sector. <br>I lead a team of engineers to create innovative and flexible solutions to support clinical Trials.<br>I always love learning new things, especially tools and frameworks and enjoy tinkering with anything I can get my hands on.<br>I'm currently learning: Vue, Python, React, Gen AI and Electron.
+(He/They)
 
 
 ## 🌐 Socials:
